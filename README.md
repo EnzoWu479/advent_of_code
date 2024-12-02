@@ -39,7 +39,7 @@ Cada pasta de dia contém:
    cd advent_of_code_2024
    ```
 
-2. Certifique-se de ter o Python 3.x instalado.  
+2. Certifique-se de ter a tecnologia correspondente à sua linguagem. 
 
 3. Navegue até o dia desejado e execute a solução:  
    ```bash
@@ -82,13 +82,15 @@ Cada pasta de dia contém:
 
 ## 🛠️ Tecnologias Utilizadas  
 
-- **Python**  
+- **Python 3.x**  
+- **C++ 8.1**  
+- **Ruby 3.3.5**  
 
 ---
 
 ## 🤝 Contribuição  
 
-Este repositório é apenas para aprendizado e diversão, mas se você tiver sugestões ou melhorias, sinta-se à vontade para abrir uma **issue** ou enviar um **pull request**.  
+Leia as regras de contribuição [aqui](/CONTRIBUICAO.md)
 
 ---
 
