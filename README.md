@@ -53,7 +53,7 @@ Cada pasta de dia contém:
 | Dia | Desafio                | Parte 1 | Parte 2 |  
 |-----|------------------------|---------|---------|  
 | 01  | 🟢 Completo            | ✅      | ✅      |  
-| 02  | ⚫ Não começou         | ⬛      | ⬛      |  
+| 02  | 🟢 Completo            | ✅      | ✅      |  
 | 03  | ⚫ Não começou         | ⬛      | ⬛      |  
 | 04  | ⚫ Não começou         | ⬛      | ⬛      |  
 | 05  | ⚫ Não começou         | ⬛      | ⬛      |  
