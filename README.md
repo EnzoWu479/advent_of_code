@@ -60,7 +60,7 @@ Cada pasta de dia contém:
 | 06  | ⚫ Não começou         | ⬛      | ⬛      |  
 | 07  | ⚫ Não começou         | ⬛      | ⬛      |  
 | 08  | ⚫ Não começou         | ⬛      | ⬛      |  
-| 09  | ⚫ Não começou         | ⬛      | ⬛      |  
+| 09  | 🟢 Meio Completo       | ✅      | ⬛      |  
 | 10  | ⚫ Não começou         | ⬛      | ⬛      |  
 | 11  | ⚫ Não começou         | ⬛      | ⬛      |  
 | 12  | ⚫ Não começou         | ⬛      | ⬛      |  
